@@ -1,0 +1,11 @@
+# Project Documentation
+
+Aim : Making an Working mini version for all machine learning mathematical computations by making mini version of numpy to work and do computations
+
+# TODO Targets
+  1. Making Basic vectors and matrix abstraction layers consisting of their all fundamental framework to work with 
+  2. Adding abstract interconnected concepts to the Matrix and vectors for easy framwork to adapt to for further development
+
+  Specific focus
+      -> Automatic Matrix based equation solving system
+      -> Least square solving tool for Linear Regression system
