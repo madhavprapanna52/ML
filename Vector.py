@@ -89,9 +89,9 @@ class Vector(list):
                     return check
 
             case 2:
-                pass # Multiplicative dependency | Make it via divide check equations
+                pass # todo  Multiplicative dependency | Make it via divide check equations
             case 3:
-                pass # Vector based maping dependency
+                pass # todo Vector based maping dependency
 
 
 
